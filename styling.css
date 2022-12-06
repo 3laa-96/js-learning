@@ -1,0 +1,48 @@
+body {
+    margin: 5px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+div {
+
+    justify-content: center;
+
+    width: 400px;
+
+
+}
+
+button {
+    padding: 10px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+
+}
+
+#increment-btn {
+
+    background: darkred;
+    width: 200px;
+    font-style: italic, bold;
+}
+
+#save-btn {
+
+    margin-top: 20px;
+    width: 200px;
+    background: darkgreen;
+    font-style: italic, bold;
+
+}
+
+#numberOfPeople {
+    text-align: center;
+}
+
+h1 {
+    font-weight: 700;
+    font-style: oblique;
+}
